@@ -1,0 +1,6 @@
+# One coin or Binance spot pair per line.
+# Bare base assets use --quote (USDT by default).
+DOGE
+PEPE
+SOL/USDT
+LINKUSDT
